@@ -94,7 +94,10 @@ a:hover {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
-
+.back-black{
+    background-color: rgba(0, 0, 0, .7);
+    padding:  80px;
+}
 .b-parallax {
     background-attachment: fixed;
 }
