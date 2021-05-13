@@ -96,7 +96,7 @@ a:hover {
 }
 .back-black{
     background-color: rgba(0, 0, 0, .7);
-    padding:  80px;
+    padding: 40px;
 }
 .b-parallax {
     background-attachment: fixed;
